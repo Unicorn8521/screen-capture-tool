@@ -1,6 +1,8 @@
 # 屏幕捕捉工具 (Screen Capture Tool)
 
 一个功能强大的屏幕捕捉与操作记录工具，支持快捷键截图、截图编辑、步骤记录和多格式报告生成，帮助你轻松创建操作教程或故障报告。
+<img width="752" height="665" alt="image" src="https://github.com/user-attachments/assets/0a42071d-b210-4224-9626-a48b67529893" />
+
 
 ## 功能特点
 
@@ -50,12 +52,18 @@ sudo apt install python3-xlib
    - 截图后可进行裁剪
    - 支持自由绘制标注和添加文字说明
    - 为每步操作添加描述信息
+  <img width="1916" height="1077" alt="image" src="https://github.com/user-attachments/assets/c9cca8cb-ec30-4cf1-9341-02f1c48315e3" />
+
+  <img width="973" height="771" alt="image" src="https://github.com/user-attachments/assets/e4f6e53d-ea1c-4a3a-9593-bcc7bbab13de" />
+
 
 4. 生成报告：
 
    - 完成所有操作后，点击 "停止捕捉"
    - 在编辑界面中完善步骤描述
    - 选择所需格式（Word/PDF/Markdown）导出报告
+  <img width="440" height="352" alt="image" src="https://github.com/user-attachments/assets/f70c4491-55a1-41d9-bfdc-c4798c54dfb5" />
+
 
 ## 界面说明
 
